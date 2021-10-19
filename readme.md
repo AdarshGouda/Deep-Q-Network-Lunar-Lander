@@ -1,5 +1,7 @@
 # Implementing Deep Q-Network on Lunar Landerv2
 
+### REPORT: https://github.com/AdzTheDemon/Deep-Q-Network-Lunar-Lander/blob/main/DQN_Report.pdf
+
 This paper describes Deep Q-Network (DQN) implementation to solve OpenAI's Lunar Lander-v2 environment by attempting to replicate the DQN Algorithm proposed by Mnih et al. The fundamental idea behind DQN is that the Q-Learning is now backed by a Stochastic Gradient Descent Neural Network to predict Q-values. The paper also discusses the fundamentals of Q-Learning, Function Approximation and Artificial Neural-Nets (ANN) that are quintessential in implementation of DQN algorithm. Finally, I discuss the results and influences of key hyperparamenters on the agent's learning performance.
 
 <img src="gym_animation12_30.gif" width=600>
